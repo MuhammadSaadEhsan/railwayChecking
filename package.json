@@ -13,6 +13,9 @@
   "description": "",
   "dependencies": {
     "express": "^4.21.2",
-    "puppeteer": "^24.1.0"
-  }
+  },
+  "devDependencies": {
+  "puppeteer": "^24.1.0"
+}
+
 }
